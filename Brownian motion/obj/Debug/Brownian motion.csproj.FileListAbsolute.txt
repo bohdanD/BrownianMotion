@@ -1,0 +1,10 @@
+G:\Курсова\Brownian motion\Brownian motion\bin\Debug\Brownian motion.exe.config
+G:\Курсова\Brownian motion\Brownian motion\bin\Debug\Brownian motion.exe
+G:\Курсова\Brownian motion\Brownian motion\bin\Debug\Brownian motion.pdb
+G:\Курсова\Brownian motion\Brownian motion\obj\Debug\Brownian_motion.Form1.resources
+G:\Курсова\Brownian motion\Brownian motion\obj\Debug\Brownian_motion.Properties.Resources.resources
+G:\Курсова\Brownian motion\Brownian motion\obj\Debug\Brownian motion.csproj.GenerateResource.Cache
+G:\Курсова\Brownian motion\Brownian motion\obj\Debug\Brownian motion.exe
+G:\Курсова\Brownian motion\Brownian motion\obj\Debug\Brownian motion.pdb
+G:\Курсова\Brownian motion\Brownian motion\obj\Debug\Brownian_motion.Form3.resources
+G:\Курсова\Brownian motion\Brownian motion\obj\Debug\Brownian motion.csprojResolveAssemblyReference.cache
